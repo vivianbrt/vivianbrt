@@ -1,11 +1,13 @@
 <img align="center" alt="banner" src="assets/readmebanner.png">
 
 <img align="right" alt="octocat" height="380" src="assets/octocat-1719181362657.png">
-
-<p align="justify-right">Accountant with a postgraduate degree and passionate about technology. I am in a career transition to the IT area, more specifically full stack developer. I always seek to increase my knowledge in the area that has always been my passion. I am fascinated by artificial intelligence, web development and other areas of technology. </p>
 <br>
- <p>Some of my hobbies are learning new technologies, watch series and read book.</p>
+<p align="justify-right">Após alguns anos atuando na minha área de formação, contabilidade, resolvi me dedicar a minha antiga paixão por tecnologia, realizando uma transição de carreira para a área de Desenvolvimento FullStack. Estou sempre em busca de novas habilidades e conhecimentos, procurando aplicar minhas experiências profissionais nesse novo caminho na tecnologia, como um diferencial. </p>
  <br>
+
+### My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,github&perline=3)](https://skillicons.dev)
 
 [![Preview](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=github&logoColor=EE82EE)](https://github.com/vivianbrt)
 
