@@ -5,7 +5,7 @@
 
 <img align="right" alt="octocat" height="380" src="assets/octocat-1719181362657.png">
 <br>
-<p align="justify-right">Após alguns anos atuando na contabilidade, que é minha área de formação, resolvi me dedicar a minha paixão por tecnologia, realizando uma transição de carreira para a área de Desenvolvimento FullStack. </p>
+<p align="justify-right">Após alguns anos atuando na contabilidade, que é minha área de formação, resolvi me dedicar a minha paixão por tecnologia, realizando uma transição de carreira para a área atuando com o Desenvolvimento FullStack. </p>
 <br>
 <p>Estou sempre em busca de novas habilidades e conhecimentos, procurando aplicar minhas experiências profissionais, como um diferencial, nesse novo caminho no mercado da tecnologia. </p>
 
